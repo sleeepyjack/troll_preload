@@ -8,5 +8,5 @@ Usage
 
 <code> make </code>
 
-<code> echo "export LD_PRELOAD=/path/to/troll.so" >> ~/.basrc </code>
+<code> echo "export LD_PRELOAD=/path/to/troll.so" >> ~/.bashrc </code>
 
